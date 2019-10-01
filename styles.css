@@ -1,0 +1,53 @@
+/* UTM Robotics Style Sheet */
+
+
+/* Get rid of default padding */
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+/* Centered Elements */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Navigation bar */
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+}
+  
+li {
+    /* float: right; */
+    display: inline-block;
+    cursor: pointer;
+    transition: 0.5s;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.4em 2em;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
