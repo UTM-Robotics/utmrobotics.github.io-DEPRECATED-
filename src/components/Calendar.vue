@@ -48,7 +48,7 @@
           ref="calendar"
           v-model="focus"
           color="primary"
-          :events="events"
+          :events="calendarEvents"
           :event-color="getEventColor"
           :event-margin-bottom="3"
           :now="today"
@@ -103,10 +103,12 @@
 </template>
 
 <script>
+  import CalendarEvents from '@/components/CalendarEvents';
+  var today = new Date();
   export default {
     data: () => ({
-      today: '2019-11-12',
-      focus: '2019-11-01',
+      today: today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate(),
+      focus: today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate(),
       type: 'month',
       typeToLabel: {
         month: 'Month',
@@ -119,37 +121,7 @@
       selectedEvent: {},
       selectedElement: null,
       selectedOpen: false,
-      events: [
-        {
-          name: 'Vacation',
-          start: '2019-10-30',
-          end: '2019-11-01',
-          color: 'indigo',
-        },
-        {
-          name: 'Meet Spok',
-          start: '2019-11-19',
-          end: '2019-11-22',
-          color: 'deep-orange',
-        },
-        {
-          name: 'Hackathon',
-          start: '2019-11-30',
-          end: '2019-12-01',
-          color: '#4285F4',
-        },
-        {
-          name: 'Arduino Workshop',
-          start: '2019-10-12 19:00',
-          color: '#1F7087',
-        },
-        {
-          name: 'Arduino Workshop 2',
-          start: '2019-11-15 16:00',
-          color: '#1F7087',
-        },
-
-      ],
+      calendarEvents: CalendarEvents.data().events,
     }),
     computed: {
       title () {

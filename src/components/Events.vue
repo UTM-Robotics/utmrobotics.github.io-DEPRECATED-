@@ -31,7 +31,7 @@ export default {
   name: 'Events',
   components: {
     Upcoming,
-  Calendar
+    Calendar
   }
 }
 </script>
