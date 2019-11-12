@@ -16,20 +16,22 @@
         <Upcoming/>
     </v-tab-item>
     <v-tab-item>
-    
+
     </v-tab-item>
     <v-tab-item>
-    
+    <Calendar/>
     </v-tab-item>
   </v-tabs>
 </template>
 
 <script>
 import Upcoming from '@/components/Upcoming'
+import Calendar from '@/components/Calendar'
 export default {
   name: 'Events',
   components: {
-    Upcoming
+    Upcoming,
+  Calendar
   }
 }
 </script>
