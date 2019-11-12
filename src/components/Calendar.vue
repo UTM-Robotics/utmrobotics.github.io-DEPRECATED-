@@ -127,7 +127,7 @@
           color: 'indigo',
         },
         {
-          name: 'Spok breaks down',
+          name: 'Meet Spok',
           start: '2019-11-19',
           end: '2019-11-22',
           color: 'deep-orange',
