@@ -9,7 +9,7 @@
           outlined
           tile
         >
-          <Events/>
+          <LeftCol/>
         </v-card>
       </v-col>
       <v-col
@@ -28,12 +28,12 @@
 </template>
 
 <script>
-import Events from '@/components/Events'
+import LeftCol from '@/components/LeftCol'
 
 export default {
   name: 'Grid',
   components: {
-    Events
+    LeftCol
   },
   data: () => ({
     //

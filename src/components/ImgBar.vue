@@ -7,6 +7,9 @@
         src="@/assets/utm-robotics-header.jpg" 
     >
         <!-- <v-spacer></v-spacer> -->
+        <!-- <v-avatar size="48" color="white" left>
+            <img src="@/assets/Artboard1.png" alt="logo">
+        </v-avatar> -->
         <v-toolbar-title class="headline text-uppercase">
             <h3>UTM Robotics Club</h3>
         </v-toolbar-title>
