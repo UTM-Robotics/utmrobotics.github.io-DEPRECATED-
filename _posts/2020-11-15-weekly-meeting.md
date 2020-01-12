@@ -5,6 +5,7 @@ time: "4-5 pm"
 location: DH3003
 featured-img:
 categories:
+color: rgb(200, 100, 100)
 ---
 
 Join us as we discuss the future of the club and plan upcoming events and projects. Everyone is welcome.
