@@ -82,6 +82,8 @@
   margin: 0 auto;
   padding: 2.5em 0;
 
+  text-align: center;
+
   @include breakpoint($md) {
     padding: 3.75rem 0;
   }
