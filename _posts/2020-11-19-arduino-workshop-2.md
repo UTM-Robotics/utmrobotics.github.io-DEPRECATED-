@@ -3,7 +3,7 @@ layout: post
 title: "Arduino Workshop 2"
 time: "4-6 pm"
 location: DH2020
-featured-img:
+featured-img: arduino_uno
 categories:
 ---
 
