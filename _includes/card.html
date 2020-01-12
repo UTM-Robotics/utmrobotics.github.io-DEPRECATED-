@@ -21,7 +21,11 @@
       </figure>
     {% else %}
       <figure class="post-card__thumb">
+        {% if post.color %}
+        <div style="background-color: {{ post.color }};"></div>
+        {% else %}
         <div class="dark-bg"></div>
+        {% endif %}
       </figure>
     {% endif %}
   </a>
