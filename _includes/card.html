@@ -16,6 +16,11 @@
           data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}.jpg 2x"
           class="lazyload blur"
           alt="{{post.title}}"
+          {% if post.color %}
+          onerror="this.style.display = 'None'; this.parentNode.style.background = '{{ post.color }}';"
+          {% else %}
+          onerror="this.style.display = 'None';"
+          {% endif %}
         />
         <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}" alt="{{ post.title }}"></noscript>
       </figure>
