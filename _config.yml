@@ -60,6 +60,7 @@ exclude:
   - npm-debug.log
   - gulpfile.js
   - sleek.jpg
+  - old_site
 
 include: ['_pages']
 permalink: /:title/
