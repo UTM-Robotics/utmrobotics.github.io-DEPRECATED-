@@ -11,9 +11,10 @@
   border-bottom: 0;
   transition: box-shadow .25s ease;
 
+  border: 1px solid black;
+
   &:hover,
   &:focus {
-    border-bottom: 0;
     box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
   }
 
