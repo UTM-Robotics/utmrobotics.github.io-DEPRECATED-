@@ -23,9 +23,9 @@ gcalendar_api_key: 'AIzaSyBdneAWrblAZs7Vln1VfKoKQhG1kd3WbSg'
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Calendar', link: '/calendar'}
   - {name: 'Projects', link: '/projects'}
   - {name: 'About', link: '/about'}
-  - {name: 'Calendar', link: '/calendar'}
 
 #tagline: >
 #  Modern Jekyll theme focused on speed performance &amp; SEO best practices
