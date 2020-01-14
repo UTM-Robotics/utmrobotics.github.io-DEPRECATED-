@@ -16,4 +16,4 @@ Build a robot that drives around campus, detects and picks up garbage.
 
 Balance a pendulum vertically on a motor driven wagon.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/cyN-CRNrb3E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyN-CRNrb3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
