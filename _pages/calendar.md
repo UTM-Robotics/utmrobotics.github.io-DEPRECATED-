@@ -13,7 +13,7 @@ permalink: /calendar/
 <script src="/assets/fullcalendar-4.3.1/packages/google-calendar/main.js"></script>
 <script src='/assets/fullcalendar-4.3.1/packages/list/main.js'></script>
 
-<script src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 
 <script>
 
