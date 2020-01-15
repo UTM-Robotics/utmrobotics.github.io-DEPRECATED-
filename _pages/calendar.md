@@ -35,6 +35,7 @@ permalink: /calendar/
         });
 
         calendar.render();
+        resizeWindow();
       });
 
     function resizeWindow() {
@@ -50,8 +51,6 @@ permalink: /calendar/
     $(window).resize(function() {
     	resizeWindow();
 	});
-
-	window.onload = resizeWindow;
 
 </script>
 
