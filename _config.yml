@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://utmrobotics.com" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
 
-gcalendar_api_key: 'AIzaSyBdneAWrblAZs7Vln1VfKoKQhG1kd3WbSg'
+gcalendar_api_key: 'AIzaSyCI3NYEvNab_FlumtjltXXJUaFwFNFuJoo'
 
 # SEO PLUGIN
 # social:
