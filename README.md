@@ -15,6 +15,10 @@ Some important fields:
 * `navigation`: Defines all navigation links
 * `twitter_username`, `facebook_username`, `instagram_username`, `slack_link` define the links for the array of social buttons shown at the bottom of pages.
 
+### Calendar
+
+The calendar is fully managed by Google Calendar. Any changes made to the corresponding Google Calendar will be reflected on the website calendar.
+
 ### Posts/Events
 
 Navigate to the `_posts` folder from the root directory.
