@@ -3,9 +3,7 @@
 
 Based on janczizikow's [Sleek Jekyll theme](https://github.com/janczizikow/sleek)
 
-## How to Use
-
-### Website Configuration
+## Website Configuration
 
 The YAML file `_config.yml` contains all the basic configuration settings for the website.
 
@@ -15,11 +13,11 @@ Some important fields:
 * `navigation`: Defines all navigation links
 * `twitter_username`, `facebook_username`, `instagram_username`, `slack_link` define the links for the array of social buttons shown at the bottom of pages.
 
-### Calendar
+## Calendar
 
 The calendar is fully managed by Google Calendar. Any changes made to the corresponding Google Calendar will be reflected on the website calendar.
 
-### Posts/Events
+## Posts/Events
 
 Navigate to the `_posts` folder from the root directory.
 
@@ -57,7 +55,7 @@ To link to a specific post, edit the `featured-img` attribute in the post header
 
 Example: `sample.jpg -> sample`
 
-### Pages
+## Pages
 
 Navigate to the `_pages` folder from the root directory. To edit a page, edit the corresponding markdown file.
 
@@ -69,7 +67,7 @@ title: About			<- title of page
 permalink: /about/		<- url endpoint
 ---
 ```
-### Embedding Media, Links and Code Snippets
+## Embedding Media, Links and Code Snippets
 
 To add images, use the following format
 * `![text to show on fail load]({{ site.url }}{{ site.baseurl }}/path-to-file-from-root)`
@@ -82,10 +80,10 @@ To add links, use the following format
 
 To add code snippets, begin with `` ```programming-language`` as the header, then write the code, and end with `` ``` `` as the footer.
 
-### Editing Templates
+## Editing Templates
 
 To edit templates, edit the `.html` files found in the `_includes` or `_layouts` folder. The `.html` files support the Liquid template language.
 
-### Styling
+## Styling
 
 To add custom styles, edit the `.scss` files in the folder `_sass`. Jekyll will automatically compile the equivalent `.css` file for you.
