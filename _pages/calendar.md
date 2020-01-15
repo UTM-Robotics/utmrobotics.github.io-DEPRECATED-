@@ -13,14 +13,16 @@ permalink: /calendar/
 <script src="/assets/fullcalendar-4.3.1/packages/google-calendar/main.js"></script>
 <script src='/assets/fullcalendar-4.3.1/packages/list/main.js'></script>
 
+<script src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
+
 <script>
 
-      document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
 
         var calendar = new FullCalendar.Calendar(calendarEl, {
             header: {
-                left: 'today, prev,next',
+                left: 'prev,next',
                 center: 'title',
                 right: 'dayGridMonth,listMonth',
             },
@@ -34,6 +36,22 @@ permalink: /calendar/
 
         calendar.render();
       });
+
+    function resizeWindow() {
+    	if (window.innerWidth < 400) {
+    		$('.fc-header-toolbar h2').css({"font-size": "1em"})
+  		} else if (window.innerWidth < 800) {
+    		$('.fc-header-toolbar h2').css({"font-size": "1.5em"})
+  		} else {
+    		$('.fc-header-toolbar h2').css({"font-size": "2em"})
+  		}
+    };
+
+    $(window).resize(function() {
+    	resizeWindow();
+	});
+
+	window.onload = resizeWindow;
 
 </script>
 
