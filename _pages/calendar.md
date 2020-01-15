@@ -20,6 +20,12 @@ permalink: /calendar/
     document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
 
+        if (window.innerWidth < 800) {
+    		view = "listWeek"
+  		} else {
+    		view = "dayGridMonth"
+  		}
+
         var calendar = new FullCalendar.Calendar(calendarEl, {
             header: {
                 left: 'prev,next',
@@ -31,15 +37,19 @@ permalink: /calendar/
             events: {
                 googleCalendarId: 'robotics@utmsu.ca'
             },
-            fixedWeekCount: false
+            fixedWeekCount: false,
+            contentHeight: "auto",
+            defaultView: view
         });
 
         calendar.render();
         resizeWindow();
-      });
+    });
 
     function resizeWindow() {
     	if (window.innerWidth < 400) {
+    		$('.fc-header-toolbar h2').css({"font-size": "0.75em"})
+  		} else if (window.innerWidth < 600) {
     		$('.fc-header-toolbar h2').css({"font-size": "1em"})
   		} else if (window.innerWidth < 800) {
     		$('.fc-header-toolbar h2').css({"font-size": "1.5em"})
