@@ -40,7 +40,7 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
           	{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-            {% for post in site.posts reversed %}
+            {% for post in site.posts %}
             	{% capture date %}{{post.date | date: '%s' | plus: 0}}{% endcapture %}
             	{% if date < now %}
             		{% include card.html %}
