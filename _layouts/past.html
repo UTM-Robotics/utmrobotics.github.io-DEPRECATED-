@@ -30,7 +30,7 @@ layout: compress
 
     <div class="hero--small">
       <div class="hero__wrap">
-        <h1 class="hero__title">Upcoming Events</h1>
+        <h1 class="hero__title">Past Events</h1>
       </div>
     </div>
     <main class="site__content">
@@ -39,10 +39,10 @@ layout: compress
       <section class="blog">
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-          	{% capture now %}{{'now' | date: '%s' | plus: 0}}{% endcapture %}
+          	{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
             {% for post in site.posts reversed %}
             	{% capture date %}{{post.date | date: '%s' | plus: 0}}{% endcapture %}
-            	{% if date >= now %}
+            	{% if date < now %}
             		{% include card.html %}
             	{% endif %}
             {% endfor %}
