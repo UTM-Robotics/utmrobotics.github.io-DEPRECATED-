@@ -4,16 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-# Garbage Collector
+# Self-Balancing Inverted Pendulum
 
-Build a robot that drives around campus, detects and picks up garbage.
+Balance an inverted pendulum vertically on a motor driven wagon. Here's an example:
 
-![Garbage Collector]({{ site.url }}{{ site.baseurl }}/assets/img/projects/car.487abfcc.jpg)
+{% include youtube.html link="https://www.youtube.com/embed/cyN-CRNrb3E" %}
 
 &nbsp;
 
-# Self-Balancing Inverted Pendulum
+# Garbage Collector
 
-Balance a pendulum vertically on a motor driven wagon.
+Build a robot that drives around campus, detects and picks up garbage, with this robot:
 
-{% include youtube.html link="https://www.youtube.com/embed/cyN-CRNrb3E" %}
+![Garbage Collector]({{ site.url }}{{ site.baseurl }}/assets/img/projects/car.487abfcc.jpg)
