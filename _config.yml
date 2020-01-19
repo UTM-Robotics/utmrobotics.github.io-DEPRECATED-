@@ -23,10 +23,11 @@ gcalendar_api_key: 'AIzaSyBdneAWrblAZs7Vln1VfKoKQhG1kd3WbSg'
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Previous', link: '/previous'}
   - {name: 'Calendar', link: '/calendar'}
   - {name: 'Projects', link: '/projects'}
   - {name: 'About', link: '/about'}
-
+ 
 #tagline: >
 #  Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
