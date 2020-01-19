@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Calendar', link: '/calendar'}
   - {name: 'Projects', link: '/projects'}
   - {name: 'About', link: '/about'}
-
+ 
 #tagline: >
 #  Modern Jekyll theme focused on speed performance &amp; SEO best practices
 

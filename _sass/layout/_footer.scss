@@ -5,7 +5,7 @@ footer {
   font-size: 0.875rem;
   color: rgba(33,33,33,0.6);
 
-  a {
+  .social__link {
     color: rgba(33,33,33,0.6);
     border-bottom: 0;
 
@@ -15,6 +15,11 @@ footer {
       border-bottom: 0;
     }
   }
+
+  .author {
+      border: none;
+  }
+
 }
 
 .social {
