@@ -26,6 +26,7 @@ navigation: # Navigation links
   - {name: 'Past Events', link: '/past'}
   - {name: 'Calendar', link: '/calendar'}
   - {name: 'Projects', link: '/projects'}
+  - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'About', link: '/about'}
  
 #tagline: >
