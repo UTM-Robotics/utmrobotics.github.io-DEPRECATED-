@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Drop-in"
-time: "2 pm"
+time: "3 pm"
 location: DH 3003
 featured-img: drop-in
 categories:
