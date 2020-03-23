@@ -13,19 +13,18 @@ As the year is coming to a close, we will need new members to step up and lead t
 
 In your nomination application, you will need to provide the following:
 
-* Full Name
+- Full Name
 
-* Student Number
+- Student Number
 
-* School email
+- School email
 
-* A short statement (maximum 100 words) on why you would make a good candidate for the role. This statement will be included on the ballot.
+- A short statement (maximum 100 words) on why you would make a good candidate for the role. This statement will be included on the ballot.
 
 Available positions (along with their respective responsibilities) are listed below:
 
-** Club President
 
-------------------------------------------------------------
+## Club President
 
 * Oversee club operations and planning at a high level, ensuring that it is achieving its purpose
 
@@ -39,11 +38,8 @@ Available positions (along with their respective responsibilities) are listed be
 
 * Organize exec meetings
 
-**
 
-VP - Finance
-
-------------------------------------------------------------
+## VP - Finance
 
 * Secure funding for the club via contacting potential sponsors, organizing fundraisers and communicating with the Computer Science department
 
@@ -53,11 +49,9 @@ VP - Finance
 
 * Manage the club's bank account
 
-**
 
-VP- Communications
 
-------------------------------------------------------------
+## VP- Communications
 
 * Oversee the advertising of the club to the university's student body
 
@@ -69,11 +63,11 @@ VP- Communications
 
 * Work with the President to facilitate interactions with other clubs and organizations inside and outside of UTM
 
-**
+* Take minutes during meetings
 
-VP - Events Coordinator
 
-------------------------------------------------------------
+
+## VP - Events Coordinator
 
 * Assist event presenters plan and execute club events.
 
@@ -85,9 +79,9 @@ VP - Events Coordinator
 
 * Oversee tabling during UTMSU's Welcome Week and Frost Week
 
-** VP - Projects Coordinator
 
-------------------------------------------------------------
+
+## VP - Projects Coordinator
 
 * Assist project leads plan and execute club projects
 
@@ -96,5 +90,3 @@ VP - Events Coordinator
 * Oversee the club's github organization
 
 * Oversee weekly drop-ins where club members can work on ongoing projects or start new ones
-
-Don't forget, the deadline to send in nomination is March 29!
