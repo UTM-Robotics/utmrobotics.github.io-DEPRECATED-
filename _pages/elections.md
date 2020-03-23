@@ -1,5 +1,5 @@
 ---
-layout: right-align
+layout: page
 title: Elections
 permalink: /elections/
 ---
