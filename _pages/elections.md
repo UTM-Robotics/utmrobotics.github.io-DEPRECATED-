@@ -9,7 +9,7 @@ We're hosting elections!
 
 ------------------------------------------------------------
 
-As the year is coming to a close, we will need new members to step up and lead the club in the next fall term. The first week of our election cycle will be the nomination period. If you would like to apply to be an exec member of the club, please send in your nomination to our CRO at fayez.habach@mail.utoronto.ca by Sunday March 29 at 11:59pm.
+As the year is coming to a close, we will need new members to step up and lead the club in the next fall term. The first week of our election cycle will be the nomination period. If you would like to apply to be an exec member of the club, please send in your nomination to our CRO at **fayez.habach@mail.utoronto.ca** by Sunday March 29 at 11:59pm.
 
 In your nomination application, you will need to provide the following:
 
