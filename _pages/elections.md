@@ -4,7 +4,7 @@ title: Elections
 permalink: /elections/
 ---
 
-
+<div align="left">
 We're hosting elections!
 
 ------------------------------------------------------------
@@ -90,3 +90,4 @@ Available positions (along with their respective responsibilities) are listed be
 * Oversee the club's github organization
 
 * Oversee weekly drop-ins where club members can work on ongoing projects or start new ones
+</div>
