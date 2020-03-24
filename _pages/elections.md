@@ -6,7 +6,6 @@ permalink: /elections/
 
 <div align="left">
   <p>We're hosting elections!</p>
-  <br>
   <hr>
   <p>
     As the year is coming to a close, we will need new members to step up and lead the club in the next fall term. The first week of our election cycle will be the nomination period. If you would like to apply to be an exec member of the club, please send in your nomination to our CRO at <strong>fayez.habach@mail.utoronto.ca</strong> by Sunday March 29 at 11:59pm.
@@ -25,7 +24,7 @@ permalink: /elections/
   </ul>
   <br>
   Available positions (along with their respective responsibilities) are listed below:
-  
+  <hr>
   <br>
   <h2>Club President</h2>
   <ul>
@@ -68,7 +67,7 @@ permalink: /elections/
 
   <li>Work with the President to facilitate interactions with other clubs and organizations inside and outside of UTM</li>
 
-  <li>Take minutes during meetings/li>
+  <li>Take minutes during meetings</li>
   </ul>
   <br>
   <hr>
