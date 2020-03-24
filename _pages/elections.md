@@ -6,44 +6,46 @@ permalink: /elections/
 
 <div align="left">
 We're hosting elections!
-
-------------------------------------------------------------
-
-As the year is coming to a close, we will need new members to step up and lead the club in the next fall term. The first week of our election cycle will be the nomination period. If you would like to apply to be an exec member of the club, please send in your nomination to our CRO at **fayez.habach@mail.utoronto.ca** by Sunday March 29 at 11:59pm.
+<br>
+<hr>
+As the year is coming to a close, we will need new members to step up and lead the club in the next fall term. The first week of our election cycle will be the nomination period. If you would like to apply to be an exec member of the club, please send in your nomination to our CRO at <strong>fayez.habach@mail.utoronto.ca</strong> by Sunday March 29 at 11:59pm.
+  
+<br>
 
 In your nomination application, you will need to provide the following:
+<ul>
+<li>Full Name</li>
 
-- Full Name
+<li>Student Number</li>
 
-- Student Number
+<li>School email</li>
 
-- School email
-
-- A short statement (maximum 100 words) on why you would make a good candidate for the role. This statement will be included on the ballot.
-
+<li>A short statement (maximum 100 words) on why you would make a good candidate for the role. This statement will be included on the ballot.</li>
+</ul>
+<br>
 Available positions (along with their respective responsibilities) are listed below:
 
 
 ## Club President
 
-* Oversee club operations and planning at a high level, ensuring that it is achieving its purpose
+<li>Oversee club operations and planning at a high level, ensuring that it is achieving its purpose
 
-* Oversee major decisions in club member structure, finance, communication, event planning, and project planning.
+<li>Oversee major decisions in club member structure, finance, communication, event planning, and project planning.
 
-* Complete and attending all UTMSU required forms and meetings (ex. re-recognition, u-life, CCR)
+<li>Complete and attending all UTMSU required forms and meetings (ex. re-recognition, u-life, CCR)
 
-* Communicate and coordinate with the computer science department and the robotics faculty professors
+<li>Communicate and coordinate with the computer science department and the robotics faculty professors
 
-* Communicate and coordinate with MCSS and any other student clubs or societies
+<li>Communicate and coordinate with MCSS and any other student clubs or societies
 
-* Organize exec meetings
+<li>Organize exec meetings
 
 
 ## VP - Finance
 
-* Secure funding for the club via contacting potential sponsors, organizing fundraisers and communicating with the Computer Science department
+<li>Secure funding for the club via contacting potential sponsors, organizing fundraisers and communicating with the Computer Science department
 
-* Oversee and tracking all purchases made on the club's behalf
+<li>Oversee and tracking all purchases made on the club's behalf
 
 * Complete the UTMSU fall and winter audits
 
