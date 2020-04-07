@@ -97,12 +97,12 @@ permalink: /elections/
   <br>
   <hr>
 
-  <!-- <h2>VP - Projects Coordinator</h2>
+  <h2>VP - Projects Coordinator</h2>
   <ul>
   <li>Assist project leads plan and execute club projects</li>
   <li>Ensure all project resources required are available</li>
   <li>Oversee the club's github organization</li>
   <li>Oversee weekly drop-ins where club members can work on ongoing projects or start new ones</li>
-  </ul> -->
+  </ul>
   
 </div>
