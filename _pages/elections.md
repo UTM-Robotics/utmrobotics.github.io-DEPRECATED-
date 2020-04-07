@@ -7,7 +7,26 @@ permalink: /elections/
 <div align="left">
   <p>We're hosting elections!</p>
   <hr>
-  <p>
+  
+  <p> We have two candidates running for the Events Coordinator position! Please read their nomination statements: </p>
+  <hr>
+  <h3>Taznim Rehza</h2>
+  <p> My name is Tasnim, and I’m running for the position of VP- Events Coordinator. I’m incredibly passionate about robotics, and have been working with the field for the past 4 years! I have experience being the Mechanical Team Captain for my FRC robotics team, a member of multiple Hackathons, and I am also an Executive Team Member of UofTHacks. </p>
+  
+<p> As the VP- Events Coordinator, I would love to help organize events which would not only introduce students to the field of robotics, but encourage them to pursue it! I also believe that UTM students deserve more networking opportunities to speak with tech companies, and would love to be work alongside these companies to organize events and workshops where students are able to further their careers.I truly believe that the robotics field has so much potential at UTM, and I would love to help it grow! Vote for me so we can further the potential of our club! Thank you. </p>
+  <br>
+  <p>-Tasnim</p>
+  
+  
+  
+  <p>Please cast your vote for one of them here. </p>
+  
+  
+  
+  
+  
+  
+<!--   <p>
     As the year is coming to a close, we will need new members to step up and lead the club in the next fall term. The first week of our election cycle will be the nomination period. If you would like to apply to be an exec member of the club, please send in your nomination to our CRO at <strong>fayez.habach@mail.utoronto.ca</strong> by Sunday March 29 at 11:59pm.
   </p>
   <br>
@@ -20,7 +39,12 @@ permalink: /elections/
 
   <li>School email</li>
 
-  <li>A short statement (maximum 100 words) on why you would make a good candidate for the role. This statement will be included on the ballot.</li>
+  <li>A short statement (maximum 100 words) on why you would make a good candidate for the role. This statement will be included on the ballot.</li> -->
+  
+  
+  
+  
+  
   </ul>
   <br>
   Available positions (along with their respective responsibilities) are listed below:
