@@ -10,7 +10,7 @@ permalink: /elections/
   <h3>Taznim Reza</h3>
   <p> My name is Tasnim, and I’m running for the position of VP- Events Coordinator. I’m incredibly passionate about robotics, and have been working with the field for the past 4 years! I have experience being the Mechanical Team Captain for my FRC robotics team, a member of multiple Hackathons, and I am also an Executive Team Member of UofTHacks. </p>
   
-  <p> As the VP- Events Coordinator, I would love to help organize events which would not only introduce students to the field of robotics, but encourage them to pursue it! I also believe that UTM students deserve more networking opportunities to speak with tech companies, and would love to be work alongside these companies to organize events and workshops where students are able to further their careers.I truly believe that the robotics field has so much potential at UTM, and I would love to help it grow! Vote for me so we can further the potential of our club! Thank you. </p>
+  <p> As the VP- Events Coordinator, I would love to help organize events which would not only introduce students to the field of robotics, but encourage them to pursue it! I also believe that UTM students deserve more networking opportunities to speak with tech companies, and would love to be work alongside these companies to organize events and workshops where students are able to further their careers. I truly believe that the robotics field has so much potential at UTM, and I would love to help it grow! Vote for me so we can further the potential of our club! Thank you. </p>
   <p>-Tasnim</p>
   
   <hr>
