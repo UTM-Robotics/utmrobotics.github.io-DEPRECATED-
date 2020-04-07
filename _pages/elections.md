@@ -5,10 +5,7 @@ permalink: /elections/
 ---
 
 <div align="left">
-  <p>We're hosting elections!</p>
-  <hr>
-  
-  <p> We have two candidates running for the Events Coordinator position! Please read their nomination statements: </p>
+  <p>We're hosting elections! We have two candidates running for the Events Coordinator position! Please read their nomination statements: </p>
   <hr>
   <h3>Taznim Reza</h3>
   <p> My name is Tasnim, and I’m running for the position of VP- Events Coordinator. I’m incredibly passionate about robotics, and have been working with the field for the past 4 years! I have experience being the Mechanical Team Captain for my FRC robotics team, a member of multiple Hackathons, and I am also an Executive Team Member of UofTHacks. </p>
@@ -86,7 +83,7 @@ permalink: /elections/
   <br>
   <hr> -->
 
-  <h2>VP - Events Coordinator</h2>
+  <!-- <h2>VP - Events Coordinator</h2>
   <ul>
   <li>Assist event presenters plan and execute club events.</li>
   <li>Oversee event logistics, such as booking appropriate rooms at appropriate times and working with the VP of Finance to manage any expenses involved</li>
@@ -95,7 +92,7 @@ permalink: /elections/
   <li>Oversee tabling during UTMSU's Welcome Week and Frost Week</li>
   </ul>
   <br>
-  <hr>
+  <hr> -->
 
   <h2>VP - Projects Coordinator</h2>
   <ul>
