@@ -5,7 +5,9 @@ permalink: /elections/
 ---
 
 <div align="left">
-  <p>We're hosting elections! We have two candidates running for the Events Coordinator position! Please read their nomination statements: </p>
+  <p>We're hosting elections! We have two candidates running for the Events Coordinator position! Please cast your vote for one of them <a href="https://forms.gle/C9B4moqgK1diT9T6A">here</a>. Please note that you must be a registered member of the club to vote, as of April 5th, 2020. </p>
+  
+  <p> For more information about the candidates, please read their nomination statements: </p>
   <hr>
   <h3>Taznim Reza</h3>
   <p> My name is Tasnim, and I’m running for the position of VP- Events Coordinator. I’m incredibly passionate about robotics, and have been working with the field for the past 4 years! I have experience being the Mechanical Team Captain for my FRC robotics team, a member of multiple Hackathons, and I am also an Executive Team Member of UofTHacks. </p>
@@ -23,8 +25,6 @@ permalink: /elections/
   <p> Laura Maldonado </p>
   
   <hr>
-  
-  <p>Please cast your vote for one of them <a href="https://forms.gle/C9B4moqgK1diT9T6A">here</a>. Please note that you must be a registered member of the club to vote, as of April 5th, 2020. </p>
   
   
   
