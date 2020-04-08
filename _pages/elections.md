@@ -5,7 +5,7 @@ permalink: /elections/
 ---
 
 <div align="left">
-  <p>We're hosting elections! We have two candidates running for the Events Coordinator position! Please cast your vote for one of them <a href="https://forms.gle/C9B4moqgK1diT9T6A">here</a>. Please note that you must be a registered member of the club to vote, as of April 5th, 2020. </p>
+  <p>We're hosting elections! We have two candidates running for the Events Coordinator position! Please cast your vote for one of them <a href="https://forms.gle/C9B4moqgK1diT9T6A">here</a>. Please note that you must be a registered member of the club to vote, as of April 5th, 2020. The election will end on April 10th, 2020 at 11:59pm. </p>
   
   <p> For more information about the candidates, please read their nomination statements: </p>
   <hr>
