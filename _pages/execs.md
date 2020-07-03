@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Execs
-permalink: /Execs/
+permalink: /execs/
 ---
 
 <div align="left">
