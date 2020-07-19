@@ -32,6 +32,6 @@ Hello My name is Parth, I am an incoming Computer Science Specialist sophomore h
 
 ## Tasnim Reza
 
-![Tasnim]({{ site.url }}{{ site.baseurl }}/assets/img/execs/Tasmin.png)
+![Tasnim]({{ site.url }}{{ site.baseurl }}/assets/img/execs/Tasnim.png)
 
 Hey guys! My name is Tasnim Reza, and I'll be your VP of Finance this year. I am a Computer Science major, with minors in Chemistry and Physics. As an avid hackathon enthusiast, I enjoy all things involving innovation, automation, and AI. I'm super excited to help get more people involved in the robotics field at UTM!
