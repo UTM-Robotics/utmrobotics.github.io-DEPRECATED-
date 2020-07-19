@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Execs
-permalink: /execs/
+title: The Team
+permalink: /The Team/
 ---
   We're super excited to bring robotics to UTM and present the executive team to you!
   ## Kyrel Jerome
