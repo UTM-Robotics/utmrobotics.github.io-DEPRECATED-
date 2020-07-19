@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Calendar', link: '/calendar'}
   - {name: 'Projects', link: '/projects'}
   - {name: 'Sponsors', link: '/sponsors'}
-  - {name: 'Execs', link: '/execs'}
+  - {name: 'The Team', link: '/team'}
   - {name: 'About', link: '/about'}
  
 #tagline: >

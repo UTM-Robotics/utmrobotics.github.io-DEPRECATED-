@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Team
-permalink: /The Team/
+permalink: /team/
 ---
 
 We're super excited to bring robotics to UTM and present the executive team to you!
